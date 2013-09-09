@@ -1,8 +1,8 @@
 // file: lorenz.c
 // author: Vince Coghlan
 // date: 9/9/13
-// you can find this as https://github.com/coghex
-
+// you can find this as https://github.com/coghex/lorenzattr
+//
 // Visualization of the Lorenz Attractor
 // s will increase s, d will decrease
 // b will increase b, n will decrease

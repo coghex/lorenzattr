@@ -4,4 +4,9 @@ b will increase b, n will decrease
 r will increase r, t will decrease
 arrows will move everything around
 - will zoom out, + will zoom in
+esc will quit
 
+to compile, go into the directory and enter:
+>make clean && make lorenz
+this will output lorenz.o, then:
+>./lorenz.o
